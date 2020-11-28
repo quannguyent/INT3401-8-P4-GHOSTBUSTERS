@@ -1,4 +1,4 @@
-<p1> INT3401-8 - PROJECT 4: GHOSTBUSTERS <p1>
+<p1> INT3401-8 - PROJECT 4: GHOSTBUSTERS </p1>
 
 Question 1 (3 points): Exact Inference Observation
 Bài toán yêu cầu mình phải cập nhật hàm sinh belief cho Pacman để dự đoán vị trí mà Ghost có thể đi tới dựa trên khoảng cách với chúng và vị trí của Pacman
